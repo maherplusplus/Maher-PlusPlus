@@ -1,4 +1,4 @@
-// Swap Between Two Varibles Without Another Variable and Without Built-In Function
+// Swap Between Two Variables Without Another Variable and Without Built-In Function
 
 #include <iostream>
 using namespace std;
